@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class SeaLevelController : MonoBehaviour
 {
     public Transform gameElementTransform;
+    public float seaLevel;
 
     // Start is called before the first frame update
     void Start()
@@ -20,6 +21,7 @@ public class SeaLevelController : MonoBehaviour
         Vector3 newPosition = gameElementTransform.position;
         newPosition.y = sliderValue;
         gameElementTransform.position = newPosition;
+        seaLevel = (float)(sliderValue * 3.04347826);
 }
 
 }

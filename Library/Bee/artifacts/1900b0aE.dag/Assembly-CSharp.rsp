@@ -355,12 +355,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.2.13f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.2.13f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/CameraControl.cs"
-"Assets/images.cs"
 "Assets/LowPolyWater_Pack/Scripts/LowPolyWater.cs"
-"Assets/script.cs"
+"Assets/Scripts/CameraControl.cs"
+"Assets/Scripts/images.cs"
 "Assets/Scripts/SeaLevelController.cs"
-"Assets/testTerrain.cs"
+"Assets/Scripts/testTerrain.cs"
 -langversion:9.0
 
 /deterministic
