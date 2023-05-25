@@ -96,7 +96,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.SpriteState
   methodsToPreserve: []
   sceneClasses:
-    Assets/Scenes/SampleScene.unity:
+    Assets/Scenes/RisingSeaMain.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -128,37 +128,37 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1656}
+      Script: {instanceID: 1682}
     - Class: 114
-      Script: {instanceID: 2242}
+      Script: {instanceID: 2268}
     - Class: 114
-      Script: {instanceID: 2484}
+      Script: {instanceID: 2510}
     - Class: 114
-      Script: {instanceID: 2676}
+      Script: {instanceID: 2702}
     - Class: 114
-      Script: {instanceID: 2888}
+      Script: {instanceID: 2914}
     - Class: 114
-      Script: {instanceID: 2984}
+      Script: {instanceID: 3010}
     - Class: 114
-      Script: {instanceID: 3014}
+      Script: {instanceID: 3040}
     - Class: 114
-      Script: {instanceID: 3312}
+      Script: {instanceID: 3338}
     - Class: 114
-      Script: {instanceID: 4208}
+      Script: {instanceID: 4234}
     - Class: 114
-      Script: {instanceID: 4474}
+      Script: {instanceID: 4500}
     - Class: 114
-      Script: {instanceID: 5112}
+      Script: {instanceID: 5138}
     - Class: 114
-      Script: {instanceID: 5186}
+      Script: {instanceID: 5212}
     - Class: 114
-      Script: {instanceID: 5746}
+      Script: {instanceID: 5772}
     - Class: 114
-      Script: {instanceID: 5906}
+      Script: {instanceID: 5932}
     - Class: 114
-      Script: {instanceID: 6236}
+      Script: {instanceID: 6260}
     - Class: 114
-      Script: {instanceID: 6660}
+      Script: {instanceID: 6684}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -394,7 +394,7 @@ ScriptsOnlyBuild:
     className: testTerrain
   - hash:
       serializedVersion: 2
-      Hash: af7dec19749a2c5f78674baefee69a2c
+      Hash: 2ec2d595e336b5e3194a0a7c582a0135
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: images
@@ -1048,5 +1048,5 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   platform: 19
   scenePathNames:
-  - Assets/Scenes/SampleScene.unity
+  - Assets/Scenes/RisingSeaMain.unity
   playerPath: C:/Users/Mads/Desktop/Prototype v.1/Builds/Prototype v.1.exe
