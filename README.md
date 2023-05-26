@@ -4,6 +4,8 @@ A Unity project that can show the rising sea levels, used for my masters thesis.
 
 TODO:: Add explanation of the features and a guide on how to set it up.
 
+
+Can watch a video of the prototype in action here, shown from its best side using the in-engine editor.
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Hn36jJIO9-8/0.jpg)](http://www.youtube.com/watch?v=Hn36jJIO9-8 "SeaLevelX Prototype")
 
 
