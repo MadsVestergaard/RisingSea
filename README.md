@@ -21,7 +21,7 @@ Can watch a video of the prototype in action here, shown from its best side usin
 Credit for fair use material:
 
 https://commons.wikimedia.org/wiki/File:ARoS_Arhus_Art_Museum_-_panoramio.jpg
-This file is licensed under the <a href= "https://creativecommons.org/licenses/by-sa/3.0/"<a/>Creative Commons Attribution-Share Alike 3.0 Unported license.
+This file is licensed under the <a href= "https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0 Unported license.<a/>
 Attribution: FinlayCox143
 
 
