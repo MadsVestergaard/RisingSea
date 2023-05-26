@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/RisingSeaMain.unity
+- path: Assets/Scenes/SeaLevelX.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
