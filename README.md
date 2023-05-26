@@ -34,4 +34,4 @@ Little Mermaid:
 Photo by <a href="https://unsplash.com/@unsunghero?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">reza hoque</a> on <a href="https://unsplash.com/photos/YxF56mv4OVU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-<a href="https://www.freepik.com/free-vector/underwater-background-with-water-bubbles-undersea-light-rays_39207516.htm#query=underwater%20texture&position=30&from_view=search&track=ais">Image by brgfx</a> on Freepik
+Water texture: <a href="https://www.freepik.com/free-vector/underwater-background-with-water-bubbles-undersea-light-rays_39207516.htm#query=underwater%20texture&position=30&from_view=search&track=ais">Image by brgfx</a> on Freepik
