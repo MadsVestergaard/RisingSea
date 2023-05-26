@@ -356,6 +356,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.2.13f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.2.13f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/LowPolyWater_Pack/Scripts/LowPolyWater.cs"
+"Assets/script.cs"
 "Assets/Scripts/CameraControl.cs"
 "Assets/Scripts/images.cs"
 "Assets/Scripts/SeaLevelController.cs"

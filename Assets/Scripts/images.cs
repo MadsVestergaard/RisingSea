@@ -67,7 +67,7 @@ public class images : MonoBehaviour
             float seaLevelRisePerYear = 2.2f / 100; // Convert cm to m
             float seaLevelRise = slider.value * 3.04f;
             int x = (int)(seaLevelRise / seaLevelRisePerYear);
-            year.text = "Projected Year: " + (2023 + x);
+            year.text = "Year: " + (2023 + x);
 
         }
 
