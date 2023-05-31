@@ -7,6 +7,8 @@ SeaLevelX is a climate change prototype, that can visualize the rising sea level
 To get SeaLevelX to run, you have to have the Unity Editor installed, in Unity Hub, you then click thje arrow next to Open, click "add project from disk" and then you locate this repos folder, and add the entire repo.
 It should then be able to run on your PC, with the Editor allowing you a perfect look around in the 3D map and on the control panel when you run the project. (It's developed on editor version 2022.2.13f1 but should work on newer versions too)
 
+You can also run it by downloading the repo, and opening the Prototype v.1 inside the Builds folder, this only works on Windows, but does not give the same 3D insight as you would get from inside the Unity Editor.
+
 If you do not want to download and run the project on your own machine, I've made a short video demonstrating each feature in the prototype below.
 
 
